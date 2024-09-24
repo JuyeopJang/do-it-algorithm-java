@@ -37,7 +37,7 @@ import java.lang.Math;
 // }
 
 // 동적 계획법을 이용한 불필요한 연산 줄이기 (탑다운)
-class Main {
+class Boj1463 {
     static int[] dp;
 
     static void getMinimumCountOfOperationFromNto1(int n, int count) {
